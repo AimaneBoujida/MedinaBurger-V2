@@ -1,2 +1,3 @@
 # MedinaBurger-V2
-Medina Burger : Website Fast food restaurant based on belgique by HTML, CSS, JS, BOOTSTRAP, JQUERY NEW VERSIONNNN
+<h1>LINK : https://aimaneboujida.github.io/MedinaBurger-V2/</h1>
+<img src="assets/img/Medina-Burger-PIC.png"/>
